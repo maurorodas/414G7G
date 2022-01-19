@@ -1,14 +1,15 @@
 # Herramientas para la enseñanza de Química
 
-### Departamento de Química, Universidad de Caldas, Manizales - Colombia [(UCaldas)](https://www.ucaldas.edu.co/)
+Departamento de Química, Universidad de Caldas, Manizales - Colombia [(UCaldas)](https://www.ucaldas.edu.co/)
 
-### Licenciatura en Ciencias Naturales: Curso 414G7G
+Licenciatura en Ciencias Naturales: Curso 414G7G
 
 ## Autor
 
 José Mauricio Rodas Rodríguez [(Bio)](https://cienciasexactasynaturales.ucaldas.edu.co/docente/?id=2617)
 Profesor asociado del departamento de química de la Universidad de Caldas (Colombia)
 Grupo de Investigación Química Teórica y Bioinformática [(QTB)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016599)
+
 ## Introducción
 
 Este es un curso que se imparte en el programa de Licenciatura en Ciencias Naturales de la Universidad de Caldas, pero dado el contenido, este puede ser de interés de docentes en ciencias y en particular del área de la química.
@@ -30,5 +31,6 @@ Cada sección ha sido escrita como un bloc de notas (Notebook) de python en el e
 | Usando python en Jupyter Notebook | Aprendiendo a usar y crear Jupyter Notebooks en python básicos | Python [1, 2], Jupyter [1, 2] |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maurorodas/414G7G/blob/main/notebooks/Python_Jupyter_Notebooks.ipynb) |
 
 ## Referencias
+
 1. Pajamkar, A. Practical Python Data Visualization: A Fast Track Approach To Learning Data Visualization With Python. **2021**. Springer. New York. ISBN-13 (electronic): 978-1-4842-6455-3
 2. Galea, A. Applied Data Science with Python and Jupyter. **2018**. Packt Publishing. ISBN: 9781789958171
