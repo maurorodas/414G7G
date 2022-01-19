@@ -1,11 +1,14 @@
 # Herramientas para la enseñanza de Química
 
-### José Mauricio Rodas Rodríguez [(Bio)](https://cienciasexactasynaturales.ucaldas.edu.co/docente/?id=2617)
-
 ### Departamento de Química, Universidad de Caldas, Manizales - Colombia [(UCaldas)](https://www.ucaldas.edu.co/)
 
 ### Licenciatura en Ciencias Naturales: Curso 414G7G
 
+## Autor
+
+José Mauricio Rodas Rodríguez [(Bio)](https://cienciasexactasynaturales.ucaldas.edu.co/docente/?id=2617)
+Profesor asociado del departamento de química de la Universidad de Caldas (Colombia)
+Grupo de Investigación Química Teórica y Bioinformática [(QTB)](https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016599)
 ## Introducción
 
 Este es un curso que se imparte en el programa de Licenciatura en Ciencias Naturales de la Universidad de Caldas, pero dado el contenido, este puede ser de interés de docentes en ciencias y en particular del área de la química.
@@ -24,7 +27,7 @@ Cada sección ha sido escrita como un bloc de notas (Notebook) de python en el e
 
 | Tema                                | Descripción                                              | Software y Lenguaje                                  | Enlace                                                                                                                                                                       |
 | ----------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Usando python en Jupyter Notebook | Aprendiendo a usar y crear Jupyter Notebooks en python básicos | python [1, 2], jupyter [1, 2] | |
+| Usando python en Jupyter Notebook | Aprendiendo a usar y crear Jupyter Notebooks en python básicos | Python [1, 2], Jupyter [1, 2] | |
 
 
 ## Referencias
