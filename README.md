@@ -2,8 +2,8 @@
 
 ### José Mauricio Rodas Rodríguez [(Bio)](https://cienciasexactasynaturales.ucaldas.edu.co/docente/?id=2617)
 
-
 ### Departamento de Química, Universidad de Caldas, Manizales - Colombia [(UCaldas)](https://www.ucaldas.edu.co/)
+
 ### Licenciatura en Ciencias Naturales: Curso 414G7G
 
 ## Introducción
@@ -14,4 +14,14 @@ El curso y su contenido, incluyendo blocs de notas (notebooks), scripts y códig
 
 El docente de Química de la actualidad, y más aún en epoca post-pandemia del SARs-CoV-2, ha sido enfrentado a la necesidad de usar adecuadamente diferentes herramientas digitales, que garanticen un contacto eficiente con sus estudiantes, ya sea de manera presencial o virtual. Adicionalmente, debe estar en la capacidad de crear documentos científicos con calidad profesional, presentar y manipular datos de manera adecuada, y en lo posible dotar de interactividad todo el material que genere.
 
-Este tipo de habilidades han sido desarrolladas principalmente por lo químicos que se han acercado previamente a la química computacional, pero en los tiempos modernos, dichas habilidades ya no son exclusivas de estos, todo químico y docente de química moderno debe estar en capacidad de entender, producir y ejecutar material creado en diferentes lenguajes, tales como: <img src="https://render.githubusercontent.com/render/math?math=\LaTeX">, python, R, bash, entre otros.
+Este tipo de habilidades han sido desarrolladas principalmente por lo químicos que se han acercado previamente a la química computacional, pero en los tiempos modernos, dichas habilidades ya no son exclusivas de estos, todo químico y docente de química moderno debe estar en capacidad de entender, producir y ejecutar material creado en diferentes lenguajes, tales como: Tex, python, R, bash, entre otros.
+
+Es por eso que este curso está orientado a docentes, futuros docentes y practicantes de la química que deseen aprender a realizar documentos científicos, presentar y manipular datos, dotar de interactividad diferentes conceptos propios de la química, usando los lenguajes más populares para este fín, es un curso pensado en personas con poca o ninguna preparación previa en programación o scripting, aunque encontrarán ejemplos y códigos que podrían ser utiles para usuarios más avanzados.
+
+## Contenido
+
+Cada sección ha sido escrita como un bloc de notas (Notebook) de python y puede ser ejecutado en la herramienta libre de computación en la nube **Google Colab**.
+
+| Tema                                | Descripción                                              | Software y Lenguaje                                  | Enlace                                                                                                                                                                       |
+| ----------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ¿Qué son los notebooks de python? | Installing Software on Google Colab for IBM3202 tutorials | pyRosetta [1], GROMACS [2], SBM-enhanced GROMACS [3] | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab00_software.ipynb) |
