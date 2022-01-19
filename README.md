@@ -36,3 +36,4 @@ Cada sección ha sido escrita como un bloc de notas (Notebook) de python en el e
 2. **Galea, A**. Applied Data Science with Python and Jupyter. **2018**. Packt Publishing. ISBN: 9781789958171.
 3. **Bisong, E**. Building Machine Learning and Deep Learning Models on Google Cloud Platform. **2019**. Springer. New York. ISBN-13 (electronic): 978-1-4842-4470-8.
 4. Otra ref
+5. otra prueba
