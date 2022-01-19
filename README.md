@@ -27,7 +27,7 @@ Cada sección ha sido escrita como un bloc de notas (Notebook) de python en el e
 
 | Tema                                | Descripción                                              | Software y Lenguaje                                  | Enlace                                                                                                                                                                       |
 | ----------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Usando python en Jupyter Notebook | Aprendiendo a usar y crear Jupyter Notebooks en python básicos | Python [1, 2], Jupyter [1, 2] |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/maurorodas/414G7G/blob/main/notebooks/Python_Jupyter_Notebooks.ipynb) |
+| Usando python en Jupyter Notebook | Aprendiendo a usar y crear Jupyter Notebooks en python básicos | Python [1, 2], Jupyter [1, 2] |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maurorodas/414G7G/blob/main/notebooks/Python_Jupyter_Notebooks.ipynb) |
 
 ## Referencias
 1. Pajamkar, A. Practical Python Data Visualization: A Fast Track Approach To Learning Data Visualization With Python. **2021**. Springer. New York. ISBN-13 (electronic): 978-1-4842-6455-3
