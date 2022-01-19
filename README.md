@@ -20,8 +20,13 @@ Es por eso que este curso está orientado a docentes, futuros docentes y practic
 
 ## Contenido
 
-Cada sección ha sido escrita como un bloc de notas (Notebook) de python y puede ser ejecutado en la herramienta libre de computación en la nube **Google Colab**.
+Cada sección ha sido escrita como un bloc de notas (Notebook) de python en el entorno Jupyter y puede ser ejecutado en la herramienta libre de computación en la nube **Google Colab**.
 
 | Tema                                | Descripción                                              | Software y Lenguaje                                  | Enlace                                                                                                                                                                       |
 | ----------------------------------- | --------------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ¿Qué son los notebooks de python? | Installing Software on Google Colab for IBM3202 tutorials | pyRosetta [1], GROMACS [2], SBM-enhanced GROMACS [3] | [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pb3lab/ibm3202/blob/master/tutorials/lab00_software.ipynb) |
+| Usando python en Jupyter Notebook | Aprendiendo a usar y crear Jupyter Notebooks en python básicos | python [1, 2], jupyter [1, 2] | |
+
+
+## Referencias
+1. Pajamkar, A. Practical Python Data Visualization: A Fast Track Approach To Learning Data Visualization With Python. **2021**. Springer. New York. ISBN-13 (electronic): 978-1-4842-6455-3
+2. Galea, A. Applied Data Science with Python and Jupyter. **2018**. Packt Publishing. ISBN: 9781789958171
