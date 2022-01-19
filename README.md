@@ -37,3 +37,4 @@ Cada sección ha sido escrita como un bloc de notas (Notebook) de python en el e
 3. **Bisong, E**. Building Machine Learning and Deep Learning Models on Google Cloud Platform. **2019**. Springer. New York. ISBN-13 (electronic): 978-1-4842-4470-8.
 4. Otra ref
 5. otra prueba
+6. Prueba final
