@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 *.ini
 desktop.ini
+**.ini
 # C extensions
 *.so
 
